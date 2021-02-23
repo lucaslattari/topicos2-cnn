@@ -3,3 +3,4 @@ virtual/
 .ipynb_checkpoints/
 .DS_Store
 *.py
+*.zip
